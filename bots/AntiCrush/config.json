@@ -1,0 +1,22 @@
+{
+    "WHITELIST_USER_IDS": [
+        "",
+        ""
+    ],
+    "TARGET_ROLE_IDS": [
+        ""
+    ],
+    "MAX_ROLES_ADDED_PER_UPDATE": 5,
+    "TIME_WINDOW_MS": 10000,
+    "MAX_ROLES_IN_WINDOW": 5,
+    "LOG_CHANNEL_NAME": "",
+    "TRACKED_AUDIT_ACTIONS": [
+        "ChannelDelete",
+        "RoleDelete",
+        "ChannelCreate",
+        "RoleCreate",
+        "GuildUpdate"
+    ],
+    "MAX_AUDIT_ACTIONS": 5,
+    "AUDIT_TIME_WINDOW_MS": 10000
+}

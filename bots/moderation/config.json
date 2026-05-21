@@ -1,0 +1,30 @@
+{
+    "token": "",
+    "clientId": "",
+    "reportChannelId": "",
+    "logChannelId": "",
+    "feedbackChannelId": "",
+    "roles": {
+        "mute": "",
+        "ban": "",
+        "warn1": "",
+        "warn2": "",
+        "warn3": "",
+        "male": "",
+        "female": "",
+        "deny": ""
+    },
+    "permissions": {
+        "supportRoles": [""],
+        "moderatorRoles": [""],
+        "adminRoles": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    }
+}
