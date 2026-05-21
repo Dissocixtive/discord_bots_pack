@@ -7,7 +7,6 @@ TOKEN=token
 
 ----------------------------
 Voice:
-
 TOKEN=
 GUILD_ID=
 !! Укажите либо CATEGORY_ID (приоритет), либо CATEGORY_NAME !!
